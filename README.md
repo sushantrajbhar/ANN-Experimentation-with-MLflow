@@ -100,8 +100,6 @@ The following libraries and frameworks are used in this project:
 5. **Input Validation and Testing**:
    - Validate input schema and ensure correct inference.
 
-Do checkout the snapshots of MLFLOW UI under MLFLOW folder to know more about MLFLOW.
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
