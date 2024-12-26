@@ -11,9 +11,7 @@ This project demonstrates a comprehensive workflow for building, tracking, and d
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Workflow](#workflow)
-7. [Results](#results)
-8. [Contributing](#contributing)
-9. [License](#license)
+7. [License](#license)
 
 ## Project Overview
 
@@ -102,10 +100,7 @@ The following libraries and frameworks are used in this project:
 5. **Input Validation and Testing**:
    - Validate input schema and ensure correct inference.
 
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
+Do checkout the snapshots of MLFLOW UI under MLFLOW folder to know more about MLFLOW.
 
 ## License
 
